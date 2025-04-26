@@ -1,0 +1,8 @@
+.venv/
+_gold/
+datasets/
+features/
+old/
+preprocessed/
+trash/
+test.ipynb
